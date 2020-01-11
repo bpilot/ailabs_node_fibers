@@ -5,7 +5,7 @@
   "main": "fibers",
   "repository": {
     "type": "git",
-    "url": "git://github.com/laverdet/ailabs_node_fibers.git"
+    "url": "git://github.com/bpilot/ailabs_node_fibers.git"
   },
   "engines": {
     "node": ">=10.0.0"
