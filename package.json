@@ -1,0 +1,16 @@
+{
+  "name": "ailabs_node_fibers",
+  "version": "1.0.0",
+  "description": "Wrapper around Fibres, Cooperative multi-tasking for Javascript",
+  "main": "fibers",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/laverdet/ailabs_node_fibers.git"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "fibers": "4.0.2"
+  }
+}
