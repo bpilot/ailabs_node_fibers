@@ -1,7 +1,7 @@
 
 var Fiber = module.require("fibers");
 
-var FiberFuture = module.require("fibers_future.js");
+var FiberFuture = module.require("./fibers_future.js");
 
 function enterFiberJS(func)
 {
