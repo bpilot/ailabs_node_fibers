@@ -1,7 +1,7 @@
 (function () {
 "use strict";
 
-var Fiber = require("node_fibers");
+var Fiber = require("fibers");
 
 var extend = require('util')._extend;
 

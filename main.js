@@ -1,5 +1,5 @@
 
-var Fiber = module.require("node_fibers");
+var Fiber = module.require("fibers");
 
 var FiberFuture = module.require("fibers_future.js");
 
